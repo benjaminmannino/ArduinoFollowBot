@@ -1,5 +1,5 @@
 # ArduinoFollowBot
-# Object Following Robot (Arduino + Ultrasonic Sensor)
+## Object Following Robot (Arduino + Ultrasonic Sensor)
 
 ## Overview
 This project uses an Arduino, an HC-SR04 ultrasonic sensor, and an L298N motor driver to create a two-wheel robot that follows an object at a set distance.
