@@ -10,15 +10,16 @@ This project uses an Arduino, an HC-SR04 ultrasonic sensor, and an L298N motor d
 - L298N motor driver
 - 2x DC motors
 - 12V power supply
+- Red LED
 
-## Software
+## Features
 - Language: C++ (Arduino)
-- Control loop includes hysteresis and PWM speed control.
-- Sensor filtering with exponential moving average for stability.
+- Control loop controls LED to signal when object is out of range.
+- Object detection with an ultrasonic sensor. 
 
 ## Files
 - `3000L_Version_5` — main Arduino code  
 - `wiring_diagram.png` — schematic
 
 ## Lessons Learned
-Integrated mechanical and electrical systems, applied signal filtering, and learned debugging techniques for motor control.
+Integrated mechanical and electrical systems, arduino coding, and learned troubleshooting techniques for motor control.
