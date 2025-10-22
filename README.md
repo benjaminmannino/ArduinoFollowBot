@@ -20,6 +20,7 @@ This project uses an Arduino, an HC-SR04 ultrasonic sensor, and an L298N motor d
 ## Files
 - `3000L_Version_5` — main Arduino code  
 - `wiring_diagram.png` — schematic
+- `README.md` - project explanation
 
 ## Lessons Learned
 Integrated mechanical and electrical systems, arduino coding, and learned troubleshooting techniques for motor control.
