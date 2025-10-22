@@ -18,7 +18,7 @@ This project uses an Arduino, an HC-SR04 ultrasonic sensor, and an L298N motor d
 - Object detection with an ultrasonic sensor. 
 
 ## Files
-- `3000L_Version_5` — main Arduino code  
+- `3000L_Version_5.ino` — main Arduino code  
 - `wiring_diagram.png` — schematic
 - `README.md` - project explanation
 
